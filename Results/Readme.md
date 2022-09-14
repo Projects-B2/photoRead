@@ -1,14 +1,14 @@
 # Results
-* [Model Training]()
-    * [Text Detection]()
-        * [Training + Validation]()
-        * [Testing]()
-    * [Text Recognition]()
-        * [Training + Validation]()
-        * [Testing]() 
-* [Result Snippets]()
-    * [Text Detection]()
-    * [Text Recogniton]()
+* [Model Training](https://github.com/shivanshu1641/photoRead/tree/main/Results#model-training)
+    * [Text Detection](https://github.com/shivanshu1641/photoRead/tree/main/Results#text-detection)
+        * [Training + Validation](https://github.com/shivanshu1641/photoRead/tree/main/Results#training--validation-graph)
+        * [Testing](https://github.com/shivanshu1641/photoRead/tree/main/Results#testing-graph)
+    * [Text Recognition](https://github.com/shivanshu1641/photoRead/tree/main/Results#text-recognition)
+        * [Training + Validation](https://github.com/shivanshu1641/photoRead/tree/main/Results#training--validation-graph-1)
+        * [Testing](https://github.com/shivanshu1641/photoRead/tree/main/Results#testing-graph-1) 
+* [Result Snippets](https://github.com/shivanshu1641/photoRead/tree/main/Results#result-snippets)
+    * [Text Detection](https://github.com/shivanshu1641/photoRead/tree/main/Results#text-detection-1)
+    * [Text Recogniton](https://github.com/shivanshu1641/photoRead/tree/main/Results#text-recognition-1)
 
 
 ## Model Training
@@ -24,6 +24,7 @@
 ![](https://github.com/shivanshu1641/photoRead/blob/main/Results/Figures/RecognitionTest.png?raw=true)
 ## Result Snippets
 ### Text Detection
+#####
 *Example 1*
 ![](https://github.com/shivanshu1641/photoRead/blob/main/Results/Figures/DR1.png?raw=true)
 #####
