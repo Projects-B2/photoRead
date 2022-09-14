@@ -1,4 +1,6 @@
 # Results
+Results comprise of Model Training Results for both Detection and Recognition along with testing of those models on some real world data.
+#####
 * [Model Training](https://github.com/shivanshu1641/photoRead/tree/main/Results#model-training)
     * [Text Detection](https://github.com/shivanshu1641/photoRead/tree/main/Results#text-detection)
         * [Training + Validation](https://github.com/shivanshu1641/photoRead/tree/main/Results#training--validation-graph)
