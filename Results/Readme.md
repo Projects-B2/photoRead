@@ -26,21 +26,28 @@
 ### Text Detection
 #####
 *Example 1*
+#####
 ![](https://github.com/shivanshu1641/photoRead/blob/main/Results/Figures/DR1.png?raw=true)
 #####
 *Example 2*
+#####
 ![](https://github.com/shivanshu1641/photoRead/blob/main/Results/Figures/DR2.png?raw=true)
 #####
 *Example 3*
+#####
 ![](https://github.com/shivanshu1641/photoRead/blob/main/Results/Figures/DR3.png?raw=true)
 
 ### Text Recognition
+#####
 *Example 1*
+#####
 ![](https://github.com/shivanshu1641/photoRead/blob/main/Results/Figures/RR1.png?raw=true)
 #####
 *Example 2*
+#####
 ![](https://github.com/shivanshu1641/photoRead/blob/main/Results/Figures/RR2.png?raw=true)
 #####
 *Example 3*
+#####
 ![](https://github.com/shivanshu1641/photoRead/blob/main/Results/Figures/RR3.png?raw=true)
 #####
